@@ -8,3 +8,4 @@ Sistema desenvolvido em React Native, com escopo bem específico, a priori: cont
   - Firebase (RealTime Database)
 
 Detalhes visuais: 
+https://www.linkedin.com/in/lucasdias08

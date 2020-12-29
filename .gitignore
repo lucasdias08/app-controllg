@@ -7,7 +7,7 @@
 
 #bd
 
-src/firebaseConnection2.js
+
 
 build/
 *.pbxuser
@@ -39,6 +39,9 @@ local.properties
 node_modules/
 npm-debug.log
 yarn-error.log
+
+src/
+firebaseConnection2.js
 
 # BUCK
 buck-out/

@@ -6,3 +6,5 @@ Sistema desenvolvido em React Native, com escopo bem específico, a priori: cont
   - React Native;
   - Node.JS
   - Firebase (RealTime Database)
+
+Detalhes visuais: 
